@@ -1,1 +1,1 @@
-Capstone projects suggested in Jose Portilla Udemy Python Course
+100 projects suggested in Jose Portilla Udemy Python Course as Final Capstone
